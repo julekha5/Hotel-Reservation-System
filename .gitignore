@@ -1,0 +1,8 @@
+*.classpath
+.class
+pom.xml
+.classpath
+.settings
+.project
+
+
